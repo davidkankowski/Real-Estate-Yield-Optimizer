@@ -20,7 +20,7 @@ This pipeline ingests live market data and scores properties on a "Deal Score" (
 
 ## 📊 Visualization
 The pipeline automatically generates a "Yield-Risk Matrix" to separate high-potential deals (Green) from value traps (Orange).
-![Yield Risk Matrix](yield_matrix.png)
+![Yield Risk Matrix](yield_risk_matrix.png)
 
 ## 💻 Tech Stack
 * **Python 3.10+**
