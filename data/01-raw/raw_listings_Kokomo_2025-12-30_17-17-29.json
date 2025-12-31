@@ -1,0 +1,5071 @@
+[
+    {
+        "id": "710-N-Lindsay-St,-Kokomo,-IN-46901",
+        "formattedAddress": "710 N Lindsay St, Kokomo, IN 46901",
+        "addressLine1": "710 N Lindsay St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.491898,
+        "longitude": -86.144019,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1075,
+        "lotSize": 2970,
+        "yearBuilt": 1895,
+        "status": "Active",
+        "price": 68900,
+        "listingType": "Standard",
+        "listedDate": "2024-10-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-24T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.076Z",
+        "daysOnMarket": 434,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202441121",
+        "listingAgent": {
+            "name": "Steve Feller",
+            "phone": "7657760721",
+            "email": "steve110@earthlink.net"
+        },
+        "listingOffice": {
+            "name": "RE MAX Realty One",
+            "phone": "7654547300",
+            "email": "pennyirwinrealtor@comcast.net",
+            "website": "http://www.remax-kokomo-in.com/"
+        },
+        "history": {
+            "2024-10-23": {
+                "event": "Sale Listing",
+                "price": 68900,
+                "listingType": "Standard",
+                "listedDate": "2024-10-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 434
+            }
+        }
+    },
+    {
+        "id": "N-Washington-St,-Kokomo,-IN-46901",
+        "formattedAddress": "N Washington St, Kokomo, IN 46901",
+        "addressLine1": "N Washington St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.519036005,
+        "longitude": -86.12668207,
+        "propertyType": "Land",
+        "lotSize": 227819,
+        "status": "Active",
+        "price": 550000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-26T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.075Z",
+        "daysOnMarket": 432,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202441461",
+        "listingAgent": {
+            "name": "Cheryl Yard",
+            "phone": "7654801298",
+            "email": "tenthyard@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Cher-Can Realty",
+            "phone": "7654801298",
+            "email": "tenthyard@aol.com"
+        },
+        "history": {
+            "2024-10-25": {
+                "event": "Sale Listing",
+                "price": 550000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 432
+            }
+        }
+    },
+    {
+        "id": "6158-W-00-Ns,-Kokomo,-IN-46901",
+        "formattedAddress": "6158 W 00 Ns, Kokomo, IN 46901",
+        "addressLine1": "6158 W 00 Ns",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.474216,
+        "longitude": -86.343315,
+        "propertyType": "Land",
+        "lotSize": 133294,
+        "status": "Active",
+        "price": 75000,
+        "listingType": "Standard",
+        "listedDate": "2024-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-02-02T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.074Z",
+        "daysOnMarket": 700,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202403076",
+        "listingAgent": {
+            "name": "Laura Cardwell",
+            "phone": "7657761911",
+            "email": "laura@cardwellbuilt.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2024-01-31": {
+                "event": "Sale Listing",
+                "price": 75000,
+                "listingType": "Standard",
+                "listedDate": "2024-01-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 700
+            }
+        }
+    },
+    {
+        "id": "W-Madison-St,-Kokomo,-IN-46901",
+        "formattedAddress": "W Madison St, Kokomo, IN 46901",
+        "addressLine1": "W Madison St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.491877606,
+        "longitude": -86.14787235,
+        "propertyType": "Land",
+        "lotSize": 32670,
+        "status": "Active",
+        "price": 39900,
+        "listingType": "Standard",
+        "listedDate": "2024-07-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-07-30T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.072Z",
+        "daysOnMarket": 520,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202428300",
+        "listingAgent": {
+            "name": "Tom Hayes",
+            "phone": "7654381392",
+            "email": "tom@tomhayesrealty.com",
+            "website": "tom@tomhayesrealty.com"
+        },
+        "listingOffice": {
+            "name": "Tom Hayes Realty",
+            "phone": "5746996073",
+            "email": "tom@tomhayesrealty.net",
+            "website": "www.tomhayesrealty.net"
+        },
+        "history": {
+            "2024-07-29": {
+                "event": "Sale Listing",
+                "price": 39900,
+                "listingType": "Standard",
+                "listedDate": "2024-07-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 520
+            }
+        }
+    },
+    {
+        "id": "6098-W-00-Ns,-Kokomo,-IN-46901",
+        "formattedAddress": "6098 W 00 Ns, Kokomo, IN 46901",
+        "addressLine1": "6098 W 00 Ns",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.474216,
+        "longitude": -86.343315,
+        "propertyType": "Land",
+        "lotSize": 133294,
+        "status": "Active",
+        "price": 75000,
+        "listingType": "Standard",
+        "listedDate": "2024-01-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-02-02T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.071Z",
+        "daysOnMarket": 700,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202403086",
+        "listingAgent": {
+            "name": "Laura Cardwell",
+            "phone": "7657761911",
+            "email": "laura@cardwellbuilt.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2024-01-31": {
+                "event": "Sale Listing",
+                "price": 75000,
+                "listingType": "Standard",
+                "listedDate": "2024-01-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 700
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-36,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 36, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 36",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479249409,
+        "longitude": -86.16631955,
+        "propertyType": "Land",
+        "lotSize": 16553,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.071Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440623",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-6,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 6, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 6",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.480434361,
+        "longitude": -86.16570227,
+        "propertyType": "Land",
+        "lotSize": 10454,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.069Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440609",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Shannon-Ln,-Lot-35,-Kokomo,-IN-46901",
+        "formattedAddress": "Shannon Ln, Lot 35, Kokomo, IN 46901",
+        "addressLine1": "Shannon Ln",
+        "addressLine2": "Lot 35",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479435899,
+        "longitude": -86.16661116,
+        "propertyType": "Land",
+        "lotSize": 17860,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.069Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440622",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "6068-Bluegrass-Rd,-Kokomo,-IN-46901",
+        "formattedAddress": "6068 Bluegrass Rd, Kokomo, IN 46901",
+        "addressLine1": "6068 Bluegrass Rd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.48057,
+        "longitude": -86.244258,
+        "propertyType": "Land",
+        "lotSize": 32234,
+        "status": "Active",
+        "price": 38000,
+        "listingType": "Standard",
+        "listedDate": "2023-08-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-26T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.068Z",
+        "daysOnMarket": 859,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202330782",
+        "listingAgent": {
+            "name": "Laura Cardwell",
+            "phone": "7657761911",
+            "email": "laura@cardwellbuilt.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2023-08-25": {
+                "event": "Sale Listing",
+                "price": 38000,
+                "listingType": "Standard",
+                "listedDate": "2023-08-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 859
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-39,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 39, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 39",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.478982975,
+        "longitude": -86.16536125,
+        "propertyType": "Land",
+        "lotSize": 13939,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.068Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440626",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Shannon-Ln,-Lot-31,-Kokomo,-IN-46901",
+        "formattedAddress": "Shannon Ln, Lot 31, Kokomo, IN 46901",
+        "addressLine1": "Shannon Ln",
+        "addressLine2": "Lot 31",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479412777,
+        "longitude": -86.1678253,
+        "propertyType": "Land",
+        "lotSize": 18295,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.067Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440620",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Shannon-Ln,-Lot-34,-Kokomo,-IN-46901",
+        "formattedAddress": "Shannon Ln, Lot 34, Kokomo, IN 46901",
+        "addressLine1": "Shannon Ln",
+        "addressLine2": "Lot 34",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479255002,
+        "longitude": -86.16683467,
+        "propertyType": "Land",
+        "lotSize": 19602,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.066Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440621",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "440-Velvet-Rd,-Kokomo,-IN-46901",
+        "formattedAddress": "440 Velvet Rd, Kokomo, IN 46901",
+        "addressLine1": "440 Velvet Rd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479996,
+        "longitude": -86.2433,
+        "propertyType": "Land",
+        "lotSize": 30056,
+        "status": "Active",
+        "price": 34000,
+        "listingType": "Standard",
+        "listedDate": "2023-08-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-26T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.065Z",
+        "daysOnMarket": 859,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202330784",
+        "listingAgent": {
+            "name": "Laura Cardwell",
+            "phone": "7657761911",
+            "email": "laura@cardwellbuilt.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2023-08-25": {
+                "event": "Sale Listing",
+                "price": 34000,
+                "listingType": "Standard",
+                "listedDate": "2023-08-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 859
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-13,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 13, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 13",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.480772892,
+        "longitude": -86.16776808,
+        "propertyType": "Land",
+        "lotSize": 11326,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 35000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.065Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440615",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 35000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "6057-Velvet-Ct,-Kokomo,-IN-46901",
+        "formattedAddress": "6057 Velvet Ct, Kokomo, IN 46901",
+        "addressLine1": "6057 Velvet Ct",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.481301,
+        "longitude": -86.244933,
+        "propertyType": "Land",
+        "lotSize": 30492,
+        "status": "Active",
+        "price": 36000,
+        "listingType": "Standard",
+        "listedDate": "2023-08-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-08-26T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.064Z",
+        "daysOnMarket": 859,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202330796",
+        "listingAgent": {
+            "name": "Laura Cardwell",
+            "phone": "7657761911",
+            "email": "laura@cardwellbuilt.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2023-08-25": {
+                "event": "Sale Listing",
+                "price": 36000,
+                "listingType": "Standard",
+                "listedDate": "2023-08-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 859
+            }
+        }
+    },
+    {
+        "id": "Shannon-Ln,-Lot-24,-Kokomo,-IN-46901",
+        "formattedAddress": "Shannon Ln, Lot 24, Kokomo, IN 46901",
+        "addressLine1": "Shannon Ln",
+        "addressLine2": "Lot 24",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.47989018,
+        "longitude": -86.1674337,
+        "propertyType": "Land",
+        "lotSize": 10019,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.063Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440617",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-12,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 12, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 12",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.480706247,
+        "longitude": -86.16744443,
+        "propertyType": "Land",
+        "lotSize": 10454,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.063Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440613",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479155857,
+        "longitude": -86.16542197,
+        "propertyType": "Land",
+        "lotSize": 261360,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 430000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.062Z",
+        "daysOnMarket": 439,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440604",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-18": {
+                "event": "Sale Listing",
+                "price": 430000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 439
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-38,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 38, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 38",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.47893265,
+        "longitude": -86.16570278,
+        "propertyType": "Land",
+        "lotSize": 13504,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.062Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440625",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Shannon-Ln,-Lot-29,-Kokomo,-IN-46901",
+        "formattedAddress": "Shannon Ln, Lot 29, Kokomo, IN 46901",
+        "addressLine1": "Shannon Ln",
+        "addressLine2": "Lot 29",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479517507,
+        "longitude": -86.16858526,
+        "propertyType": "Land",
+        "lotSize": 13504,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 35000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.061Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440618",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 35000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "Chrystal-Woods-Dr,-Lot-37,-Kokomo,-IN-46901",
+        "formattedAddress": "Chrystal Woods Dr, Lot 37, Kokomo, IN 46901",
+        "addressLine1": "Chrystal Woods Dr",
+        "addressLine2": "Lot 37",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479061863,
+        "longitude": -86.16606577,
+        "propertyType": "Land",
+        "lotSize": 16117,
+        "hoa": {
+            "fee": 100
+        },
+        "status": "Active",
+        "price": 30000,
+        "listingType": "Standard",
+        "listedDate": "2024-10-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-10-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.059Z",
+        "daysOnMarket": 438,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202440624",
+        "listingAgent": {
+            "name": "Susan Cone",
+            "phone": "3177103419",
+            "email": "susancone.realtor@gmail.com",
+            "website": "http://truerealtyindiana.com"
+        },
+        "listingOffice": {
+            "name": "True Realty",
+            "phone": "7654386386",
+            "email": "truerealtykokomo@gmail.com"
+        },
+        "history": {
+            "2024-10-19": {
+                "event": "Sale Listing",
+                "price": 30000,
+                "listingType": "Standard",
+                "listedDate": "2024-10-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 438
+            }
+        }
+    },
+    {
+        "id": "1454-E-1275-S,-Kokomo,-IN-46901",
+        "formattedAddress": "1454 E 1275 S, Kokomo, IN 46901",
+        "addressLine1": "1454 E 1275 S",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Miami",
+        "countyFips": "103",
+        "latitude": 40.583057,
+        "longitude": -86.040155,
+        "propertyType": "Manufactured",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 2052,
+        "lotSize": 43560,
+        "yearBuilt": 2002,
+        "status": "Active",
+        "price": 225000,
+        "listingType": "Standard",
+        "listedDate": "2025-12-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-12-30T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:45:35.046Z",
+        "daysOnMarket": 2,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202549773",
+        "listingAgent": {
+            "name": "Holly Stone",
+            "phone": "7654575054",
+            "email": "holly@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-12-29": {
+                "event": "Sale Listing",
+                "price": 225000,
+                "listingType": "Standard",
+                "listedDate": "2025-12-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 2
+            }
+        }
+    },
+    {
+        "id": "1406-N-Philips-St,-Kokomo,-IN-46901",
+        "formattedAddress": "1406 N Philips St, Kokomo, IN 46901",
+        "addressLine1": "1406 N Philips St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.499004,
+        "longitude": -86.145323,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1200,
+        "lotSize": 6621,
+        "yearBuilt": 1970,
+        "status": "Active",
+        "price": 169500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-03-22T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.785Z",
+        "daysOnMarket": 173,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202526977",
+        "listingAgent": {
+            "name": "Karina Hernandez",
+            "phone": "7655431973",
+            "email": "khernandez@truebloodre.com"
+        },
+        "listingOffice": {
+            "name": "Trueblood Real Estate",
+            "phone": "7658381998"
+        },
+        "history": {
+            "2025-06-03": {
+                "event": "Sale Listing",
+                "price": 169500,
+                "listingType": "Standard",
+                "listedDate": "2025-06-03T00:00:00.000Z",
+                "removedDate": "2025-07-09T00:00:00.000Z",
+                "daysOnMarket": 36
+            },
+            "2025-07-11": {
+                "event": "Sale Listing",
+                "price": 169500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 173
+            }
+        }
+    },
+    {
+        "id": "113-W-Gano-St,-Kokomo,-IN-46901",
+        "formattedAddress": "113 W Gano St, Kokomo, IN 46901",
+        "addressLine1": "113 W Gano St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.508874,
+        "longitude": -86.131988,
+        "propertyType": "Land",
+        "lotSize": 1742,
+        "status": "Active",
+        "price": 9995,
+        "listingType": "Standard",
+        "listedDate": "2025-07-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-14T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.784Z",
+        "daysOnMarket": 171,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202527189",
+        "listingAgent": {
+            "name": "Raylene Webb",
+            "phone": "2602226970",
+            "email": "webb.raylene@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "Exp Realty, Llc",
+            "phone": "8886663912",
+            "email": "in.broker@exprealty.net",
+            "website": "http://www.exprealty.com"
+        },
+        "history": {
+            "2025-07-13": {
+                "event": "Sale Listing",
+                "price": 9995,
+                "listingType": "Standard",
+                "listedDate": "2025-07-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 171
+            }
+        }
+    },
+    {
+        "id": "820-E-Sycamore-St,-Kokomo,-IN-46901",
+        "formattedAddress": "820 E Sycamore St, Kokomo, IN 46901",
+        "addressLine1": "820 E Sycamore St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.486836,
+        "longitude": -86.122347,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "squareFootage": 2749,
+        "lotSize": 7841,
+        "yearBuilt": 1927,
+        "status": "Active",
+        "price": 129900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-18T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.783Z",
+        "daysOnMarket": 167,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202527903",
+        "listingAgent": {
+            "name": "Jamie L Leach",
+            "phone": "7654380960",
+            "email": "jamie@thehardiegroup.com",
+            "website": "http://www.thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-17": {
+                "event": "Sale Listing",
+                "price": 129900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 167
+            }
+        }
+    },
+    {
+        "id": "1705-Kensington-on-Berkley,-Kokomo,-IN-46901",
+        "formattedAddress": "1705 Kensington on Berkley, Kokomo, IN 46901",
+        "addressLine1": "1705 Kensington on Berkley",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.498089,
+        "longitude": -86.151972,
+        "propertyType": "Condo",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 896,
+        "lotSize": 871,
+        "yearBuilt": 1972,
+        "hoa": {
+            "fee": 140
+        },
+        "status": "Active",
+        "price": 69900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.783Z",
+        "daysOnMarket": 166,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202528166",
+        "listingAgent": {
+            "name": "Gina  Key",
+            "phone": "7652109275",
+            "email": "ginakeyrealtor13@gmail.com",
+            "website": "http://www.keyteamrealestate.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-18": {
+                "event": "Sale Listing",
+                "price": 69900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 166
+            }
+        }
+    },
+    {
+        "id": "4529-E-00-Ns,-Kokomo,-IN-46901",
+        "formattedAddress": "4529 E 00 Ns, Kokomo, IN 46901",
+        "addressLine1": "4529 E 00 Ns",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.476762,
+        "longitude": -86.041058,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1526,
+        "lotSize": 23087,
+        "yearBuilt": 1965,
+        "status": "Active",
+        "price": 165000,
+        "listingType": "Standard",
+        "listedDate": "2025-07-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-17T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.782Z",
+        "daysOnMarket": 168,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202527617",
+        "listingAgent": {
+            "name": "Joyce Graham",
+            "phone": "7657762578",
+            "email": "joyrealtyinc@aol.com"
+        },
+        "listingOffice": {
+            "name": "JOY REALTY",
+            "phone": "7658641855",
+            "email": "joyrealtyinc@aol.com",
+            "website": "www.realestatejoyllc.com"
+        },
+        "history": {
+            "2025-07-16": {
+                "event": "Sale Listing",
+                "price": 165000,
+                "listingType": "Standard",
+                "listedDate": "2025-07-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "2605-E-Markland-Ave,-Kokomo,-IN-46901",
+        "formattedAddress": "2605 E Markland Ave, Kokomo, IN 46901",
+        "addressLine1": "2605 E Markland Ave",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.476395,
+        "longitude": -86.095909,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1376,
+        "lotSize": 22651,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 175000,
+        "listingType": "Standard",
+        "listedDate": "2025-07-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-12T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.781Z",
+        "daysOnMarket": 173,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202526850",
+        "listingAgent": {
+            "name": "Abby Miller",
+            "phone": "5747030800",
+            "email": "homesteadrealty.abby@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Modern Real Estate & Renovations",
+            "phone": "5747030800"
+        },
+        "history": {
+            "2025-07-11": {
+                "event": "Sale Listing",
+                "price": 175000,
+                "listingType": "Standard",
+                "listedDate": "2025-07-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 173
+            }
+        }
+    },
+    {
+        "id": "914-S-Market-St,-Kokomo,-IN-46901",
+        "formattedAddress": "914 S Market St, Kokomo, IN 46901",
+        "addressLine1": "914 S Market St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.477143,
+        "longitude": -86.127959,
+        "propertyType": "Multi-Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 1956,
+        "lotSize": 8276,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 125000,
+        "listingType": "Standard",
+        "listedDate": "2025-07-18T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-19T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.781Z",
+        "daysOnMarket": 166,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202528162",
+        "listingAgent": {
+            "name": "The Pamela Maloney Team",
+            "phone": "7654381132",
+            "email": "pmaloneyrealtor@aol.com",
+            "website": "http://pammaloneyteam.com"
+        },
+        "listingOffice": {
+            "name": "RE MAX Realty One",
+            "phone": "7654547300",
+            "email": "pennyirwinrealtor@comcast.net",
+            "website": "http://www.remax-kokomo-in.com/"
+        },
+        "history": {
+            "2025-07-18": {
+                "event": "Sale Listing",
+                "price": 125000,
+                "listingType": "Standard",
+                "listedDate": "2025-07-18T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 166
+            }
+        }
+    },
+    {
+        "id": "E-North-St,-Lot-1,-Kokomo,-IN-46901",
+        "formattedAddress": "E North St, Lot 1, Kokomo, IN 46901",
+        "addressLine1": "E North St",
+        "addressLine2": "Lot 1",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.49814,
+        "longitude": -86.131259,
+        "propertyType": "Land",
+        "lotSize": 396832,
+        "status": "Active",
+        "price": 363489,
+        "listingType": "Standard",
+        "listedDate": "2025-07-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-10T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.778Z",
+        "daysOnMarket": 175,
+        "mlsName": "MIBOR",
+        "mlsNumber": "22049710",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-07-09": {
+                "event": "Sale Listing",
+                "price": 363489,
+                "listingType": "Standard",
+                "listedDate": "2025-07-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 175
+            }
+        }
+    },
+    {
+        "id": "1411-W-Havens-St,-Kokomo,-IN-46901",
+        "formattedAddress": "1411 W Havens St, Kokomo, IN 46901",
+        "addressLine1": "1411 W Havens St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.49416,
+        "longitude": -86.147106,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 672,
+        "lotSize": 3920,
+        "yearBuilt": 1951,
+        "status": "Active",
+        "price": 74900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-30T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.778Z",
+        "daysOnMarket": 155,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202529733",
+        "listingAgent": {
+            "name": "Andy Hardie",
+            "phone": "7654376134",
+            "email": "andy@thehardiegroup.com",
+            "website": "http://www.thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-29": {
+                "event": "Sale Listing",
+                "price": 74900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 155
+            }
+        }
+    },
+    {
+        "id": "2050-Bent-Creek-Rd,-Kokomo,-IN-46901",
+        "formattedAddress": "2050 Bent Creek Rd, Kokomo, IN 46901",
+        "addressLine1": "2050 Bent Creek Rd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.491033,
+        "longitude": -86.100675,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1642,
+        "lotSize": 5663,
+        "yearBuilt": 2022,
+        "status": "Active",
+        "price": 269900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-17T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.777Z",
+        "daysOnMarket": 162,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202528536",
+        "listingAgent": {
+            "name": "Vickie Candlish",
+            "phone": "7654538866",
+            "email": "vickiecanlist2@aol.com",
+            "website": "http://e.g. http://www.yourwebsite.com"
+        },
+        "listingOffice": {
+            "name": "Creative Realty - Kokomo",
+            "phone": "7654538960"
+        },
+        "history": {
+            "2024-06-17": {
+                "event": "Sale Listing",
+                "price": 272400,
+                "listingType": "Standard",
+                "listedDate": "2024-06-17T00:00:00.000Z",
+                "removedDate": "2025-07-11T00:00:00.000Z",
+                "daysOnMarket": 389
+            },
+            "2025-07-22": {
+                "event": "Sale Listing",
+                "price": 269900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 162
+            }
+        }
+    },
+    {
+        "id": "508-W-Madison-St,-Kokomo,-IN-46901",
+        "formattedAddress": "508 W Madison St, Kokomo, IN 46901",
+        "addressLine1": "508 W Madison St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.492829,
+        "longitude": -86.136775,
+        "propertyType": "Land",
+        "lotSize": 3746,
+        "status": "Active",
+        "price": 10900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-26T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.776Z",
+        "daysOnMarket": 159,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202529240",
+        "listingAgent": {
+            "name": "Donald Griffin",
+            "phone": "8123279232",
+            "email": "griffin@homefinder.org"
+        },
+        "listingOffice": {
+            "name": "Griffin Realty Holdings Llc",
+            "phone": "8123237232",
+            "email": "griffin@homefinder.org",
+            "website": "www.leanongrealty.com"
+        },
+        "history": {
+            "2025-07-25": {
+                "event": "Sale Listing",
+                "price": 10900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 159
+            }
+        }
+    },
+    {
+        "id": "2501-N-Apperson-Way,-Trlr-11,-Kokomo,-IN-46901",
+        "formattedAddress": "2501 N Apperson Way, Trlr 11, Kokomo, IN 46901",
+        "addressLine1": "2501 N Apperson Way",
+        "addressLine2": "Trlr 11",
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.511749,
+        "longitude": -86.128799,
+        "propertyType": "Manufactured",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1000,
+        "yearBuilt": 2018,
+        "status": "Active",
+        "price": 39000,
+        "listingType": "Standard",
+        "listedDate": "2025-07-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-01T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.773Z",
+        "daysOnMarket": 153,
+        "mlsName": "MyStateMLS",
+        "mlsNumber": "11546642",
+        "listingAgent": {
+            "name": "Melissa Smith",
+            "phone": "7655483772",
+            "email": "bonair@boavidamhp.com"
+        },
+        "listingOffice": {
+            "name": "Bon Air Manufactured Home Community",
+            "phone": "7655483772"
+        },
+        "history": {
+            "2025-07-31": {
+                "event": "Sale Listing",
+                "price": 39000,
+                "listingType": "Standard",
+                "listedDate": "2025-07-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 153
+            }
+        }
+    },
+    {
+        "id": "E-North-St,-Kokomo,-IN-46901",
+        "formattedAddress": "E North St, Kokomo, IN 46901",
+        "addressLine1": "E North St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.5022,
+        "longitude": -86.1399,
+        "propertyType": "Land",
+        "lotSize": 396832,
+        "status": "Active",
+        "price": 363489,
+        "listingType": "Standard",
+        "listedDate": "2025-02-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-02-05T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.692Z",
+        "daysOnMarket": 330,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202503483",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-02-04": {
+                "event": "Sale Listing",
+                "price": 363489,
+                "listingType": "Standard",
+                "listedDate": "2025-02-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 330
+            }
+        }
+    },
+    {
+        "id": "729-S-Union-St,-Kokomo,-IN-46901",
+        "formattedAddress": "729 S Union St, Kokomo, IN 46901",
+        "addressLine1": "729 S Union St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.478967,
+        "longitude": -86.130195,
+        "propertyType": "Land",
+        "lotSize": 9148,
+        "status": "Active",
+        "price": 34900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-07T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.686Z",
+        "daysOnMarket": 239,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202516247",
+        "listingAgent": {
+            "name": "Beth Mumaw",
+            "phone": "7654193040",
+            "email": "dockery859@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Five Star, Realtors",
+            "phone": "7654193040",
+            "email": "fivestarrealtors@yahoo.com"
+        },
+        "history": {
+            "2025-05-06": {
+                "event": "Sale Listing",
+                "price": 34900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 239
+            }
+        }
+    },
+    {
+        "id": "2152-N-Plate-And-Elizabeth-St-Sts,-Kokomo,-IN-46901",
+        "formattedAddress": "2152 N Plate And Elizabeth St Sts, Kokomo, IN 46901",
+        "addressLine1": "2152 N Plate And Elizabeth St Sts",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.507038,
+        "longitude": -86.114365,
+        "propertyType": "Land",
+        "lotSize": 127631,
+        "status": "Active",
+        "price": 119000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-08T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.686Z",
+        "daysOnMarket": 238,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202516406",
+        "listingAgent": {
+            "name": "Marilyn Neuhauser",
+            "phone": "7654576163",
+            "email": "msneuhauser@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "F.C. Tucker-Tomlinson",
+            "phone": "7654528216",
+            "email": "btomlinson72@aol.com"
+        },
+        "history": {
+            "2025-05-07": {
+                "event": "Sale Listing",
+                "price": 119000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 238
+            }
+        }
+    },
+    {
+        "id": "300-E-Taylor-St,-Kokomo,-IN-46901",
+        "formattedAddress": "300 E Taylor St, Kokomo, IN 46901",
+        "addressLine1": "300 E Taylor St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.489503,
+        "longitude": -86.128626,
+        "propertyType": "Multi-Family",
+        "bedrooms": 8,
+        "bathrooms": 8,
+        "squareFootage": 2968,
+        "lotSize": 3920,
+        "yearBuilt": 1913,
+        "status": "Active",
+        "price": 525000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-28T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.683Z",
+        "daysOnMarket": 218,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202519651",
+        "listingAgent": {
+            "name": "Dj Butcher",
+            "phone": "7658602591",
+            "email": "dj@fc-inc.com"
+        },
+        "listingOffice": {
+            "name": "Fortune Companies, Inc.",
+            "phone": "7654571700",
+            "email": "sales@fc-inc.com"
+        },
+        "history": {
+            "2025-05-27": {
+                "event": "Sale Listing",
+                "price": 525000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 218
+            }
+        }
+    },
+    {
+        "id": "714-N-Union-St,-Kokomo,-IN-46901",
+        "formattedAddress": "714 N Union St, Kokomo, IN 46901",
+        "addressLine1": "714 N Union St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.492407,
+        "longitude": -86.129698,
+        "propertyType": "Multi-Family",
+        "bedrooms": 6,
+        "bathrooms": 2,
+        "squareFootage": 2016,
+        "lotSize": 7841,
+        "yearBuilt": 1885,
+        "status": "Active",
+        "price": 185000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-12-08T06:53:04.378Z",
+        "lastSeenDate": "2025-12-30T05:36:14.682Z",
+        "daysOnMarket": 204,
+        "mlsName": "MIBOR",
+        "mlsNumber": "22043647",
+        "listingAgent": {
+            "name": "Sarah Schaefer",
+            "phone": "3178334397",
+            "email": "sschaefer@fathomrealty.com"
+        },
+        "listingOffice": {
+            "name": "White Stag Realty, LLC",
+            "phone": "3179654849",
+            "email": "joshdilmaghani@whitestagrealty.com"
+        },
+        "history": {
+            "2025-06-10": {
+                "event": "Sale Listing",
+                "price": 185000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 204
+            }
+        }
+    },
+    {
+        "id": "W-St-Rd-22-Hwy,-Kokomo,-IN-46901",
+        "formattedAddress": "W St Rd 22 Hwy, Kokomo, IN 46901",
+        "addressLine1": "W St Rd 22 Hwy",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.488646461,
+        "longitude": -86.18578805,
+        "propertyType": "Land",
+        "lotSize": 630749,
+        "status": "Active",
+        "price": 562212,
+        "listingType": "Standard",
+        "listedDate": "2025-06-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-20T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.682Z",
+        "daysOnMarket": 195,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202523496",
+        "listingAgent": {
+            "name": "J.b. Farrell",
+            "phone": "7657141511",
+            "email": "jb@jbfarrell.com",
+            "website": "http://www.sellwithjb.com"
+        },
+        "listingOffice": {
+            "name": "Farrell Property",
+            "phone": "7657141511"
+        },
+        "history": {
+            "2025-06-19": {
+                "event": "Sale Listing",
+                "price": 562212,
+                "listingType": "Standard",
+                "listedDate": "2025-06-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 195
+            }
+        }
+    },
+    {
+        "id": "N-300-Rd-W,-Kokomo,-IN-46901",
+        "formattedAddress": "N 300 Rd W, Kokomo, IN 46901",
+        "addressLine1": "N 300 Rd W",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.496299778,
+        "longitude": -86.18525161,
+        "propertyType": "Land",
+        "lotSize": 2395800,
+        "status": "Active",
+        "price": 1988000,
+        "listingType": "Standard",
+        "listedDate": "2025-06-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-20T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.681Z",
+        "daysOnMarket": 195,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202523524",
+        "listingAgent": {
+            "name": "J.b. Farrell",
+            "phone": "7657141511",
+            "email": "jb@jbfarrell.com",
+            "website": "http://www.sellwithjb.com"
+        },
+        "listingOffice": {
+            "name": "Farrell Property",
+            "phone": "7657141511"
+        },
+        "history": {
+            "2025-06-19": {
+                "event": "Sale Listing",
+                "price": 1988000,
+                "listingType": "Standard",
+                "listedDate": "2025-06-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 195
+            }
+        }
+    },
+    {
+        "id": "386-W-300-Rd-N,-Kokomo,-IN-46901",
+        "formattedAddress": "386 W 300 Rd N, Kokomo, IN 46901",
+        "addressLine1": "386 W 300 Rd N",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.520157,
+        "longitude": -86.133251,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 1800,
+        "lotSize": 7405,
+        "yearBuilt": 2019,
+        "status": "Active",
+        "price": 179900,
+        "listingType": "Standard",
+        "listedDate": "2025-06-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-06-30T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.679Z",
+        "daysOnMarket": 185,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202525015",
+        "listingAgent": {
+            "name": "Tom Hayes",
+            "phone": "7654381392",
+            "email": "tom@tomhayesrealty.com",
+            "website": "tom@tomhayesrealty.com"
+        },
+        "listingOffice": {
+            "name": "Tom Hayes Realty",
+            "phone": "5746996073",
+            "email": "tom@tomhayesrealty.net",
+            "website": "www.tomhayesrealty.net"
+        },
+        "history": {
+            "2025-06-29": {
+                "event": "Sale Listing",
+                "price": 179900,
+                "listingType": "Standard",
+                "listedDate": "2025-06-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 185
+            }
+        }
+    },
+    {
+        "id": "712-N-Lindsay-St,-Kokomo,-IN-46901",
+        "formattedAddress": "712 N Lindsay St, Kokomo, IN 46901",
+        "addressLine1": "712 N Lindsay St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.492013,
+        "longitude": -86.144021,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 967,
+        "lotSize": 2962,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 139500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-05T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-05T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.678Z",
+        "daysOnMarket": 179,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202525968",
+        "listingAgent": {
+            "name": "Dawn Myers",
+            "phone": "3177760200",
+            "email": "dawnmyers@talktotucker.com",
+            "website": "http://www.talktotucker.com/dawn.myers"
+        },
+        "listingOffice": {
+            "name": "F.C. Tucker-Noblesville",
+            "phone": "3177760200",
+            "email": "jhirsch@talktotucker.com"
+        },
+        "history": {
+            "2025-07-05": {
+                "event": "Sale Listing",
+                "price": 139500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-05T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 179
+            }
+        }
+    },
+    {
+        "id": "1515-N-Indiana-Ave,-Kokomo,-IN-46901",
+        "formattedAddress": "1515 N Indiana Ave, Kokomo, IN 46901",
+        "addressLine1": "1515 N Indiana Ave",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.500453,
+        "longitude": -86.139977,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1124,
+        "lotSize": 9583,
+        "yearBuilt": 1915,
+        "status": "Active",
+        "price": 105000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-12-09T07:45:21.989Z",
+        "lastSeenDate": "2025-12-30T05:36:14.674Z",
+        "daysOnMarket": 138,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202532493",
+        "listingAgent": {
+            "name": "Gina  Key",
+            "phone": "7652109275",
+            "email": "ginakeyrealtor13@gmail.com",
+            "website": "http://www.keyteamrealestate.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-08-15": {
+                "event": "Sale Listing",
+                "price": 105000,
+                "listingType": "Standard",
+                "listedDate": "2025-08-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 138
+            }
+        }
+    },
+    {
+        "id": "5862-N-50-E,-Kokomo,-IN-46901",
+        "formattedAddress": "5862 N 50 E, Kokomo, IN 46901",
+        "addressLine1": "5862 N 50 E",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.561151,
+        "longitude": -86.117264,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 3732,
+        "lotSize": 29185,
+        "yearBuilt": 1975,
+        "status": "Active",
+        "price": 320000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-05-21T08:18:08.469Z",
+        "lastSeenDate": "2025-12-30T05:36:14.674Z",
+        "daysOnMarket": 134,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533078",
+        "listingAgent": {
+            "name": "Teresa Ott",
+            "phone": "3175192932",
+            "email": "tott@bhhsin.com",
+            "website": "https://www.bhhsinrealty.com/teresa-ott"
+        },
+        "listingOffice": {
+            "name": "Berkshire Hathaway Home Services Indiana Realty",
+            "phone": "3175952100"
+        },
+        "history": {
+            "2025-08-19": {
+                "event": "Sale Listing",
+                "price": 320000,
+                "listingType": "Standard",
+                "listedDate": "2025-08-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 134
+            }
+        }
+    },
+    {
+        "id": "916-E-Dixon-St,-Kokomo,-IN-46901",
+        "formattedAddress": "916 E Dixon St, Kokomo, IN 46901",
+        "addressLine1": "916 E Dixon St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.497615,
+        "longitude": -86.121409,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1040,
+        "lotSize": 6098,
+        "yearBuilt": 1996,
+        "status": "Active",
+        "price": 129900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-25T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.673Z",
+        "daysOnMarket": 129,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533886",
+        "listingAgent": {
+            "name": "Greg Marsh",
+            "phone": "7656691735",
+            "email": "greg@marshrealty.realtor",
+            "website": "http://marshrealty.realtor"
+        },
+        "listingOffice": {
+            "name": "Marsh Realty",
+            "phone": "7656691735",
+            "email": "gm2041@aol.com"
+        },
+        "history": {
+            "2025-08-24": {
+                "event": "Sale Listing",
+                "price": 129900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 129
+            }
+        }
+    },
+    {
+        "id": "2103-W-Jefferson-St,-Kokomo,-IN-46901",
+        "formattedAddress": "2103 W Jefferson St, Kokomo, IN 46901",
+        "addressLine1": "2103 W Jefferson St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.490465,
+        "longitude": -86.157695,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1482,
+        "lotSize": 9583,
+        "yearBuilt": 1960,
+        "status": "Active",
+        "price": 179900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-29T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.673Z",
+        "daysOnMarket": 125,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202534540",
+        "listingAgent": {
+            "name": "Christy Dechert",
+            "phone": "7654387952",
+            "email": "christy@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-08-28": {
+                "event": "Sale Listing",
+                "price": 179900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 125
+            }
+        }
+    },
+    {
+        "id": "3032-W-200-N,-Kokomo,-IN-46901",
+        "formattedAddress": "3032 W 200 N, Kokomo, IN 46901",
+        "addressLine1": "3032 W 200 N",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.505078,
+        "longitude": -86.184652,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1786,
+        "lotSize": 46609,
+        "yearBuilt": 1967,
+        "status": "Active",
+        "price": 299900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-12T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.672Z",
+        "daysOnMarket": 96,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202539103",
+        "listingAgent": {
+            "name": "Naomi Eason",
+            "phone": "7654348840",
+            "email": "naomieason1@gmail.com",
+            "website": "naomieason.com"
+        },
+        "listingOffice": {
+            "name": "RE MAX Realty One",
+            "phone": "7654547300",
+            "email": "pennyirwinrealtor@comcast.net",
+            "website": "http://www.remax-kokomo-in.com/"
+        },
+        "history": {
+            "2025-07-11": {
+                "event": "Sale Listing",
+                "price": 315000,
+                "listingType": "Standard",
+                "listedDate": "2025-07-11T00:00:00.000Z",
+                "removedDate": "2025-07-20T00:00:00.000Z",
+                "daysOnMarket": 9
+            },
+            "2025-09-26": {
+                "event": "Sale Listing",
+                "price": 299900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 96
+            }
+        }
+    },
+    {
+        "id": "11821-Crestview-Blvd,-Kokomo,-IN-46901",
+        "formattedAddress": "11821 Crestview Blvd, Kokomo, IN 46901",
+        "addressLine1": "11821 Crestview Blvd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.471222,
+        "longitude": -86.303719,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 3552,
+        "lotSize": 24829,
+        "yearBuilt": 2003,
+        "status": "Active",
+        "price": 469900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-20T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.671Z",
+        "daysOnMarket": 134,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533005",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-08-19": {
+                "event": "Sale Listing",
+                "price": 469900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 134
+            }
+        }
+    },
+    {
+        "id": "720-S-Union-St,-Kokomo,-IN-46901",
+        "formattedAddress": "720 S Union St, Kokomo, IN 46901",
+        "addressLine1": "720 S Union St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46901",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.479275,
+        "longitude": -86.129464,
+        "propertyType": "Multi-Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1591,
+        "lotSize": 9148,
+        "yearBuilt": 1890,
+        "status": "Active",
+        "price": 139900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-01-13T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.670Z",
+        "daysOnMarket": 96,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202539034",
+        "listingAgent": {
+            "name": "Steven Childers",
+            "phone": "2604269226",
+            "email": "stevenschilders@gmail.com"
+        },
+        "listingOffice": {
+            "name": "KELLER WILLIAMS LAFAYETTE",
+            "phone": "7658077177",
+            "email": "geoffboyle@kw.com",
+            "website": "www.lafayettekw.com"
+        },
+        "history": {
+            "2025-09-26": {
+                "event": "Sale Listing",
+                "price": 139900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 96
+            }
+        }
+    },
+    {
+        "id": "250-S-150-W,-Kokomo,-IN-46902",
+        "formattedAddress": "250 S 150 W, Kokomo, IN 46902",
+        "addressLine1": "250 S 150 W",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.443108,
+        "longitude": -86.157372,
+        "propertyType": "Land",
+        "lotSize": 668210,
+        "status": "Active",
+        "price": 525000,
+        "listingType": "Standard",
+        "listedDate": "2024-08-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-05-20T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.073Z",
+        "daysOnMarket": 491,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202432861",
+        "listingAgent": {
+            "name": "Tom Harrold",
+            "phone": "7654380649",
+            "email": "tomharrold@msn.com"
+        },
+        "listingOffice": {
+            "name": "Harrold-Chandler Real Estate",
+            "phone": "7658542373",
+            "email": "wesrn5@yahoo.com",
+            "website": "www.harrold-chandler.com"
+        },
+        "history": {
+            "2024-08-27": {
+                "event": "Sale Listing",
+                "price": 525000,
+                "listingType": "Standard",
+                "listedDate": "2024-08-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 491
+            }
+        }
+    },
+    {
+        "id": "591-E-400-S,-Kokomo,-IN-46902",
+        "formattedAddress": "591 E 400 S, Kokomo, IN 46902",
+        "addressLine1": "591 E 400 S",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.417023,
+        "longitude": -86.116653,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "squareFootage": 5052,
+        "lotSize": 454766,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 1250000,
+        "listingType": "Standard",
+        "listedDate": "2024-06-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-06-18T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.070Z",
+        "daysOnMarket": 562,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202422101",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2024-06-17": {
+                "event": "Sale Listing",
+                "price": 1250000,
+                "listingType": "Standard",
+                "listedDate": "2024-06-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 562
+            }
+        }
+    },
+    {
+        "id": "712-E-400-S,-Kokomo,-IN-46902",
+        "formattedAddress": "712 E 400 S, Kokomo, IN 46902",
+        "addressLine1": "712 E 400 S",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.420274,
+        "longitude": -86.113581,
+        "propertyType": "Land",
+        "lotSize": 584140,
+        "status": "Active",
+        "price": 425000,
+        "listingType": "Standard",
+        "listedDate": "2023-03-23T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-03-23T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.066Z",
+        "daysOnMarket": 1014,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202308409",
+        "listingAgent": {
+            "name": "Jay Beckom",
+            "phone": "7658542373",
+            "email": "sold@beckom.net"
+        },
+        "listingOffice": {
+            "name": "Harrold-Chandler Real Estate",
+            "phone": "7658542373",
+            "email": "wesrn5@yahoo.com",
+            "website": "www.harrold-chandler.com"
+        },
+        "history": {
+            "2023-03-23": {
+                "event": "Sale Listing",
+                "price": 425000,
+                "listingType": "Standard",
+                "listedDate": "2023-03-23T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 1014
+            }
+        }
+    },
+    {
+        "id": "2477-Schick-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "2477 Schick Dr, Kokomo, IN 46902",
+        "addressLine1": "2477 Schick Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.469404,
+        "longitude": -86.095209,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1802,
+        "lotSize": 12632,
+        "yearBuilt": 2024,
+        "status": "Active",
+        "price": 334900,
+        "listingType": "New Construction",
+        "listedDate": "2024-11-08T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-11-09T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:58:53.060Z",
+        "daysOnMarket": 418,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202443413",
+        "listingAgent": {
+            "name": "Lindsay Ousley",
+            "phone": "7658602920",
+            "email": "lindsayousley@gmail.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2024-11-08": {
+                "event": "Sale Listing",
+                "price": 334900,
+                "listingType": "New Construction",
+                "listedDate": "2024-11-08T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 418
+            }
+        }
+    },
+    {
+        "id": "4232-Colter-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "4232 Colter Dr, Kokomo, IN 46902",
+        "addressLine1": "4232 Colter Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.435703,
+        "longitude": -86.104293,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2493,
+        "lotSize": 13068,
+        "yearBuilt": 2025,
+        "status": "Active",
+        "price": 499900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-09-04T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.784Z",
+        "daysOnMarket": 169,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202527481",
+        "listingAgent": {
+            "name": "Christy Dechert",
+            "phone": "7654387952",
+            "email": "christy@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2024-09-03": {
+                "event": "Sale Listing",
+                "price": 52000,
+                "listingType": "Standard",
+                "listedDate": "2024-09-03T00:00:00.000Z",
+                "removedDate": "2024-10-27T00:00:00.000Z",
+                "daysOnMarket": 54
+            },
+            "2025-07-15": {
+                "event": "Sale Listing",
+                "price": 499900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 169
+            }
+        }
+    },
+    {
+        "id": "1782-Hunters-Cove-Cir,-Kokomo,-IN-46902",
+        "formattedAddress": "1782 Hunters Cove Cir, Kokomo, IN 46902",
+        "addressLine1": "1782 Hunters Cove Cir",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.420481,
+        "longitude": -86.16009,
+        "propertyType": "Land",
+        "lotSize": 9148,
+        "status": "Active",
+        "price": 37500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-12-19T07:21:37.917Z",
+        "lastSeenDate": "2025-12-30T05:36:14.783Z",
+        "daysOnMarket": 154,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202529876",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-07-30": {
+                "event": "Sale Listing",
+                "price": 37500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 154
+            }
+        }
+    },
+    {
+        "id": "826-W-Virginia-Ave,-Kokomo,-IN-46902",
+        "formattedAddress": "826 W Virginia Ave, Kokomo, IN 46902",
+        "addressLine1": "826 W Virginia Ave",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.473138,
+        "longitude": -86.14128,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 848,
+        "lotSize": 5227,
+        "yearBuilt": 1953,
+        "status": "Active",
+        "price": 114900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-31T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.782Z",
+        "daysOnMarket": 154,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202529875",
+        "listingAgent": {
+            "name": "Andy Hardie",
+            "phone": "7654376134",
+            "email": "andy@thehardiegroup.com",
+            "website": "http://www.thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-30": {
+                "event": "Sale Listing",
+                "price": 114900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 154
+            }
+        }
+    },
+    {
+        "id": "1614-S-Union-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1614 S Union St, Kokomo, IN 46902",
+        "addressLine1": "1614 S Union St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.467707,
+        "longitude": -86.129404,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1124,
+        "lotSize": 7405,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 124900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-12-17T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.780Z",
+        "daysOnMarket": 168,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202527735",
+        "listingAgent": {
+            "name": "Andy Hardie",
+            "phone": "7654376134",
+            "email": "andy@thehardiegroup.com",
+            "website": "http://www.thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2024-12-17": {
+                "event": "Sale Listing",
+                "price": 134900,
+                "listingType": "Standard",
+                "listedDate": "2024-12-17T00:00:00.000Z",
+                "removedDate": "2025-02-28T00:00:00.000Z",
+                "daysOnMarket": 73
+            },
+            "2025-07-16": {
+                "event": "Sale Listing",
+                "price": 124900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "1004-E-Wheeler-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1004 E Wheeler St, Kokomo, IN 46902",
+        "addressLine1": "1004 E Wheeler St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.467357,
+        "longitude": -86.119292,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 934,
+        "lotSize": 5271,
+        "yearBuilt": 1920,
+        "status": "Active",
+        "price": 84900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-17T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.780Z",
+        "daysOnMarket": 168,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202527730",
+        "listingAgent": {
+            "name": "Andy Hardie",
+            "phone": "7654376134",
+            "email": "andy@thehardiegroup.com",
+            "website": "http://www.thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-16": {
+                "event": "Sale Listing",
+                "price": 84900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 168
+            }
+        }
+    },
+    {
+        "id": "1115-S-Buckeye-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1115 S Buckeye St, Kokomo, IN 46902",
+        "addressLine1": "1115 S Buckeye St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.474143,
+        "longitude": -86.132792,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1080,
+        "lotSize": 7667,
+        "yearBuilt": 1915,
+        "status": "Active",
+        "price": 74900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-31T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.779Z",
+        "daysOnMarket": 154,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202529880",
+        "listingAgent": {
+            "name": "Andy Hardie",
+            "phone": "7654376134",
+            "email": "andy@thehardiegroup.com",
+            "website": "http://www.thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-30": {
+                "event": "Sale Listing",
+                "price": 74900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 154
+            }
+        }
+    },
+    {
+        "id": "2799-S-200-E,-Kokomo,-IN-46902",
+        "formattedAddress": "2799 S 200 E, Kokomo, IN 46902",
+        "addressLine1": "2799 S 200 E",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.43676,
+        "longitude": -86.089718,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1572,
+        "lotSize": 28750,
+        "yearBuilt": 1960,
+        "status": "Active",
+        "price": 224900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-29T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-30T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.775Z",
+        "daysOnMarket": 155,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202529745",
+        "listingAgent": {
+            "name": "Michele Burke",
+            "phone": "7654386569",
+            "email": "micheleburke@remax.net"
+        },
+        "listingOffice": {
+            "name": "RE MAX Realty One",
+            "phone": "7654547300",
+            "email": "pennyirwinrealtor@comcast.net",
+            "website": "http://www.remax-kokomo-in.com/"
+        },
+        "history": {
+            "2025-07-29": {
+                "event": "Sale Listing",
+                "price": 224900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-29T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 155
+            }
+        }
+    },
+    {
+        "id": "1304-Imperial-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "1304 Imperial Dr, Kokomo, IN 46902",
+        "addressLine1": "1304 Imperial Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.471499,
+        "longitude": -86.107095,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1223,
+        "lotSize": 9278,
+        "yearBuilt": 1957,
+        "status": "Active",
+        "price": 157500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-01T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.774Z",
+        "daysOnMarket": 153,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202530116",
+        "listingAgent": {
+            "name": "Michael Mygrant",
+            "phone": "7654577214",
+            "email": "michael@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "Mygrant Realty & Appraisals",
+            "phone": "7654617608",
+            "email": "michael@mygrantproperties.com"
+        },
+        "history": {
+            "2025-07-31": {
+                "event": "Sale Listing",
+                "price": 157500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 153
+            }
+        }
+    },
+    {
+        "id": "610-W-Foster-St,-Kokomo,-IN-46902",
+        "formattedAddress": "610 W Foster St, Kokomo, IN 46902",
+        "addressLine1": "610 W Foster St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.474816,
+        "longitude": -86.138261,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1180,
+        "lotSize": 3049,
+        "yearBuilt": 1905,
+        "status": "Active",
+        "price": 105000,
+        "listingType": "Standard",
+        "listedDate": "2025-02-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-01-06T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.693Z",
+        "daysOnMarket": 330,
+        "mlsName": "MIBOR",
+        "mlsNumber": "22019548",
+        "listingAgent": {
+            "name": "Beau Gibson",
+            "phone": "3177277794",
+            "email": "beau.gibson@talktotucker.com"
+        },
+        "listingOffice": {
+            "name": "F.C. Tucker Company - Carmel",
+            "phone": "3178467751",
+            "email": "customerservice@talktotucker.com",
+            "website": "https://www.talktotucker.com/carmel/"
+        },
+        "history": {
+            "2025-02-04": {
+                "event": "Sale Listing",
+                "price": 105000,
+                "listingType": "Standard",
+                "listedDate": "2025-02-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 330
+            }
+        }
+    },
+    {
+        "id": "1813-Hunters-Cove-Cir,-Kokomo,-IN-46902",
+        "formattedAddress": "1813 Hunters Cove Cir, Kokomo, IN 46902",
+        "addressLine1": "1813 Hunters Cove Cir",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.421194,
+        "longitude": -86.161479,
+        "propertyType": "Land",
+        "lotSize": 9148,
+        "hoa": {
+            "fee": 90
+        },
+        "status": "Active",
+        "price": 39900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-10T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-11T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.691Z",
+        "daysOnMarket": 296,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202507481",
+        "listingAgent": {
+            "name": "Lindsay Ousley",
+            "phone": "7658602920",
+            "email": "lindsayousley@gmail.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-03-10": {
+                "event": "Sale Listing",
+                "price": 39900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-10T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 296
+            }
+        }
+    },
+    {
+        "id": "1766-Hunters-Cove-Cir,-Kokomo,-IN-46902",
+        "formattedAddress": "1766 Hunters Cove Cir, Kokomo, IN 46902",
+        "addressLine1": "1766 Hunters Cove Cir",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.420087,
+        "longitude": -86.160817,
+        "propertyType": "Land",
+        "lotSize": 8712,
+        "hoa": {
+            "fee": 90
+        },
+        "status": "Active",
+        "price": 49900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-12T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.691Z",
+        "daysOnMarket": 295,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202507648",
+        "listingAgent": {
+            "name": "Lindsay Ousley",
+            "phone": "7658602920",
+            "email": "lindsayousley@gmail.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-03-11": {
+                "event": "Sale Listing",
+                "price": 49900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 295
+            }
+        }
+    },
+    {
+        "id": "4156-Sheffield-Cir,-Kokomo,-IN-46902",
+        "formattedAddress": "4156 Sheffield Cir, Kokomo, IN 46902",
+        "addressLine1": "4156 Sheffield Cir",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.41657,
+        "longitude": -86.164595,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "squareFootage": 2445,
+        "lotSize": 23958,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 25
+        },
+        "status": "Active",
+        "price": 669900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-03-18T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.690Z",
+        "daysOnMarket": 289,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202508598",
+        "listingAgent": {
+            "name": "Cali Dewitt",
+            "phone": "7654388339",
+            "email": "dc.dewitt@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-03-17": {
+                "event": "Sale Listing",
+                "price": 669900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 289
+            }
+        }
+    },
+    {
+        "id": "1709-Bramoor-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "1709 Bramoor Dr, Kokomo, IN 46902",
+        "addressLine1": "1709 Bramoor Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.404792,
+        "longitude": -86.161402,
+        "propertyType": "Land",
+        "lotSize": 24219,
+        "status": "Active",
+        "price": 49900,
+        "listingType": "Standard",
+        "listedDate": "2025-03-17T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2020-09-15T03:13:57.484Z",
+        "lastSeenDate": "2025-12-30T05:36:14.689Z",
+        "daysOnMarket": 289,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202508606",
+        "listingAgent": {
+            "name": "Christy Dechert",
+            "phone": "7654387952",
+            "email": "christy@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-03-17": {
+                "event": "Sale Listing",
+                "price": 49900,
+                "listingType": "Standard",
+                "listedDate": "2025-03-17T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 289
+            }
+        }
+    },
+    {
+        "id": "4251-Coventry-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "4251 Coventry Dr, Kokomo, IN 46902",
+        "addressLine1": "4251 Coventry Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.412196,
+        "longitude": -86.163963,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 2319,
+        "lotSize": 21344,
+        "yearBuilt": 2025,
+        "hoa": {
+            "fee": 17
+        },
+        "status": "Active",
+        "price": 524900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-04-09T06:49:24.780Z",
+        "lastSeenDate": "2025-12-30T05:36:14.685Z",
+        "daysOnMarket": 230,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202517897",
+        "listingAgent": {
+            "name": "Melissa Rethlake",
+            "phone": "7654577214",
+            "email": "melissa@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-05-15": {
+                "event": "Sale Listing",
+                "price": 524900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 230
+            }
+        }
+    },
+    {
+        "id": "3055-Emerald-Ct,-Kokomo,-IN-46902",
+        "formattedAddress": "3055 Emerald Ct, Kokomo, IN 46902",
+        "addressLine1": "3055 Emerald Ct",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.432393,
+        "longitude": -86.176424,
+        "propertyType": "Land",
+        "lotSize": 35719,
+        "status": "Active",
+        "price": 79900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-06-04T07:28:20.770Z",
+        "lastSeenDate": "2025-12-30T05:36:14.685Z",
+        "daysOnMarket": 229,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202518053",
+        "listingAgent": {
+            "name": "Marilyn Neuhauser",
+            "phone": "7654576163",
+            "email": "msneuhauser@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "F.C. Tucker-Tomlinson",
+            "phone": "7654528216",
+            "email": "btomlinson72@aol.com"
+        },
+        "history": {
+            "2025-05-16": {
+                "event": "Sale Listing",
+                "price": 79900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 229
+            }
+        }
+    },
+    {
+        "id": "3059-Emerald-Ct,-Kokomo,-IN-46902",
+        "formattedAddress": "3059 Emerald Ct, Kokomo, IN 46902",
+        "addressLine1": "3059 Emerald Ct",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.432025,
+        "longitude": -86.17643,
+        "propertyType": "Land",
+        "lotSize": 35719,
+        "status": "Active",
+        "price": 67900,
+        "listingType": "Standard",
+        "listedDate": "2025-05-16T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-06-04T07:28:20.779Z",
+        "lastSeenDate": "2025-12-30T05:36:14.684Z",
+        "daysOnMarket": 229,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202518065",
+        "listingAgent": {
+            "name": "Marilyn Neuhauser",
+            "phone": "7654576163",
+            "email": "msneuhauser@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "F.C. Tucker-Tomlinson",
+            "phone": "7654528216",
+            "email": "btomlinson72@aol.com"
+        },
+        "history": {
+            "2025-05-16": {
+                "event": "Sale Listing",
+                "price": 67900,
+                "listingType": "Standard",
+                "listedDate": "2025-05-16T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 229
+            }
+        }
+    },
+    {
+        "id": "1419-S-Courtland-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1419 S Courtland St, Kokomo, IN 46902",
+        "addressLine1": "1419 S Courtland St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.470601,
+        "longitude": -86.138092,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1040,
+        "lotSize": 6970,
+        "yearBuilt": 1889,
+        "status": "Active",
+        "price": 110000,
+        "listingType": "Standard",
+        "listedDate": "2025-05-20T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-10-25T09:16:23.393Z",
+        "lastSeenDate": "2025-12-30T05:36:14.683Z",
+        "daysOnMarket": 225,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202518624",
+        "listingAgent": {
+            "name": "Terry Biddle",
+            "phone": "7654383388",
+            "email": "ttlbiddle@aol.com",
+            "website": "century21.com"
+        },
+        "listingOffice": {
+            "name": "Creative Realty - Kokomo",
+            "phone": "7654538960"
+        },
+        "history": {
+            "2025-05-20": {
+                "event": "Sale Listing",
+                "price": 110000,
+                "listingType": "Standard",
+                "listedDate": "2025-05-20T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 225
+            }
+        }
+    },
+    {
+        "id": "2913-Mayor-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "2913 Mayor Dr, Kokomo, IN 46902",
+        "addressLine1": "2913 Mayor Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.451605,
+        "longitude": -86.162551,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 3363,
+        "lotSize": 18295,
+        "yearBuilt": 2003,
+        "status": "Active",
+        "price": 379900,
+        "listingType": "Standard",
+        "listedDate": "2025-06-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-05-12T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.681Z",
+        "daysOnMarket": 195,
+        "mlsName": "MIBOR",
+        "mlsNumber": "22045615",
+        "listingAgent": {
+            "name": "Steve Metarelis",
+            "phone": "8444480749",
+            "email": "sales@offerpad.com"
+        },
+        "listingOffice": {
+            "name": "Offerpad Brokerage, LLC",
+            "phone": "8444480749",
+            "email": "sales@offerpad.com",
+            "website": "https://offerpad.com"
+        },
+        "history": {
+            "2025-06-19": {
+                "event": "Sale Listing",
+                "price": 379900,
+                "listingType": "Standard",
+                "listedDate": "2025-06-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 195
+            }
+        }
+    },
+    {
+        "id": "1821-S-Buckeye-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1821 S Buckeye St, Kokomo, IN 46902",
+        "addressLine1": "1821 S Buckeye St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.464982,
+        "longitude": -86.132725,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 840,
+        "lotSize": 6098,
+        "yearBuilt": 1909,
+        "status": "Active",
+        "price": 103500,
+        "listingType": "Standard",
+        "listedDate": "2025-07-09T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-07-10T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.676Z",
+        "daysOnMarket": 175,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202526432",
+        "listingAgent": {
+            "name": "Nicki Whiteman",
+            "phone": "7654343581",
+            "email": "nwhitemanrealestate@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Whiteman Realty",
+            "phone": "7654343581",
+            "email": "nwhitemanrealestate@gmail.com"
+        },
+        "history": {
+            "2025-07-09": {
+                "event": "Sale Listing",
+                "price": 103500,
+                "listingType": "Standard",
+                "listedDate": "2025-07-09T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 175
+            }
+        }
+    },
+    {
+        "id": "5503-Arrowhead-Blvd,-Kokomo,-IN-46902",
+        "formattedAddress": "5503 Arrowhead Blvd, Kokomo, IN 46902",
+        "addressLine1": "5503 Arrowhead Blvd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.426408,
+        "longitude": -86.125692,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1700,
+        "lotSize": 8276,
+        "yearBuilt": 1958,
+        "status": "Active",
+        "price": 204900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-01T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-02T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.671Z",
+        "daysOnMarket": 152,
+        "mlsName": "MIBOR",
+        "mlsNumber": "22053548",
+        "listingAgent": {
+            "name": "Amber Russell",
+            "phone": "3172468066",
+            "email": "amber@amberrussell.com",
+            "website": "http://amberrussell.com"
+        },
+        "listingOffice": {
+            "name": "Keller Williams Indy Metro Ne",
+            "phone": "3175647100",
+            "email": "michaelmergell@kw.com",
+            "website": "www.kellerwilliams.com"
+        },
+        "history": {
+            "2025-08-01": {
+                "event": "Sale Listing",
+                "price": 204900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-01T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 152
+            }
+        }
+    },
+    {
+        "id": "1921-S-Market-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1921 S Market St, Kokomo, IN 46902",
+        "addressLine1": "1921 S Market St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.463917,
+        "longitude": -86.128824,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1159,
+        "lotSize": 7492,
+        "yearBuilt": 1948,
+        "status": "Active",
+        "price": 144900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-09-09T08:20:58.939Z",
+        "lastSeenDate": "2025-12-30T05:36:14.666Z",
+        "daysOnMarket": 151,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202530454",
+        "listingAgent": {
+            "name": "Joe Martino",
+            "phone": "7654348598",
+            "email": "joehunter1@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Martino Realty - Monticello",
+            "phone": "5142401085"
+        },
+        "history": {
+            "2025-08-02": {
+                "event": "Sale Listing",
+                "price": 144900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 151
+            }
+        }
+    },
+    {
+        "id": "236-W-400-S,-Kokomo,-IN-46902",
+        "formattedAddress": "236 W 400 S, Kokomo, IN 46902",
+        "addressLine1": "236 W 400 S",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.419034,
+        "longitude": -86.131758,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1.5,
+        "squareFootage": 1168,
+        "lotSize": 20038,
+        "yearBuilt": 1955,
+        "status": "Active",
+        "price": 162500,
+        "listingType": "Standard",
+        "listedDate": "2025-08-04T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-05T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.664Z",
+        "daysOnMarket": 149,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202530629",
+        "listingAgent": {
+            "name": "Gina  Key",
+            "phone": "7652109275",
+            "email": "ginakeyrealtor13@gmail.com",
+            "website": "http://www.keyteamrealestate.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-08-04": {
+                "event": "Sale Listing",
+                "price": 162500,
+                "listingType": "Standard",
+                "listedDate": "2025-08-04T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 149
+            }
+        }
+    },
+    {
+        "id": "811-W-Foster-St,-Kokomo,-IN-46902",
+        "formattedAddress": "811 W Foster St, Kokomo, IN 46902",
+        "addressLine1": "811 W Foster St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.474375,
+        "longitude": -86.140817,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 2284,
+        "lotSize": 6098,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 194900,
+        "listingType": "Standard",
+        "listedDate": "2025-07-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-01T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.663Z",
+        "daysOnMarket": 153,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202530146",
+        "listingAgent": {
+            "name": "Megan Landrum",
+            "phone": "3174523464",
+            "email": "megan@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-07-31": {
+                "event": "Sale Listing",
+                "price": 194900,
+                "listingType": "Standard",
+                "listedDate": "2025-07-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 153
+            }
+        }
+    },
+    {
+        "id": "412-E-Poplar-St,-Kokomo,-IN-46902",
+        "formattedAddress": "412 E Poplar St, Kokomo, IN 46902",
+        "addressLine1": "412 E Poplar St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.463554,
+        "longitude": -86.126235,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1150,
+        "lotSize": 5227,
+        "yearBuilt": 2025,
+        "status": "Active",
+        "price": 205000,
+        "listingType": "New Construction",
+        "listedDate": "2025-10-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-10-04T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.662Z",
+        "daysOnMarket": 89,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202540184",
+        "listingAgent": {
+            "name": "Courtney Jo Anderson",
+            "phone": "7652716875",
+            "email": "courtneyjoanderson1990@gmail.com"
+        },
+        "listingOffice": {
+            "name": "Heartland Real Estate Brokers",
+            "phone": "7652716875",
+            "email": "angieroe.realtor@gmail.com"
+        },
+        "history": {
+            "2025-10-03": {
+                "event": "Sale Listing",
+                "price": 205000,
+                "listingType": "New Construction",
+                "listedDate": "2025-10-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 89
+            }
+        }
+    },
+    {
+        "id": "3201-Morrow-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "3201 Morrow Dr, Kokomo, IN 46902",
+        "addressLine1": "3201 Morrow Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.447273,
+        "longitude": -86.144998,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2412,
+        "lotSize": 8276,
+        "yearBuilt": 2016,
+        "status": "Active",
+        "price": 320000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-02-11T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.661Z",
+        "daysOnMarket": 131,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533633",
+        "listingAgent": {
+            "name": "Chris Beatty",
+            "phone": "7654807102",
+            "email": "chris@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-08-22": {
+                "event": "Sale Listing",
+                "price": 320000,
+                "listingType": "Standard",
+                "listedDate": "2025-08-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 131
+            }
+        }
+    },
+    {
+        "id": "5812-Dartmouth-Ct,-Kokomo,-IN-46902",
+        "formattedAddress": "5812 Dartmouth Ct, Kokomo, IN 46902",
+        "addressLine1": "5812 Dartmouth Ct",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.423195,
+        "longitude": -86.133702,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2837,
+        "lotSize": 27007,
+        "yearBuilt": 1967,
+        "status": "Active",
+        "price": 337000,
+        "listingType": "Standard",
+        "listedDate": "2025-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-10-03T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.661Z",
+        "daysOnMarket": 90,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202539883",
+        "listingAgent": {
+            "name": "Will Whitticker",
+            "phone": "3175635051",
+            "email": "will.whitticker@compass.com"
+        },
+        "listingOffice": {
+            "name": "Compass",
+            "phone": "3176962001",
+            "email": "jay.rose@compass.com"
+        },
+        "history": {
+            "2025-10-02": {
+                "event": "Sale Listing",
+                "price": 337000,
+                "listingType": "Standard",
+                "listedDate": "2025-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 90
+            }
+        }
+    },
+    {
+        "id": "3015-Crooked-Stick-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "3015 Crooked Stick Dr, Kokomo, IN 46902",
+        "addressLine1": "3015 Crooked Stick Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.431927,
+        "longitude": -86.14895,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 3148,
+        "lotSize": 14810,
+        "yearBuilt": 2002,
+        "status": "Active",
+        "price": 389900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-07T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-04-20T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.660Z",
+        "daysOnMarket": 146,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202531143",
+        "listingAgent": {
+            "name": "Christy Dechert",
+            "phone": "7654387952",
+            "email": "christy@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-04-19": {
+                "event": "Sale Listing",
+                "price": 265000,
+                "listingType": "Standard",
+                "listedDate": "2025-04-19T00:00:00.000Z",
+                "removedDate": "2025-04-25T00:00:00.000Z",
+                "daysOnMarket": 6
+            },
+            "2025-08-07": {
+                "event": "Sale Listing",
+                "price": 389900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-07T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 146
+            }
+        }
+    },
+    {
+        "id": "311-W-Woodland-Ave,-Kokomo,-IN-46902",
+        "formattedAddress": "311 W Woodland Ave, Kokomo, IN 46902",
+        "addressLine1": "311 W Woodland Ave",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.470578,
+        "longitude": -86.134329,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "squareFootage": 1088,
+        "lotSize": 3006,
+        "yearBuilt": 1915,
+        "status": "Active",
+        "price": 112400,
+        "listingType": "Standard",
+        "listedDate": "2025-08-26T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-27T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.660Z",
+        "daysOnMarket": 127,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202534132",
+        "listingAgent": {
+            "name": "Missy Jackson",
+            "phone": "7654321144",
+            "email": "melissajackson@remax.net"
+        },
+        "listingOffice": {
+            "name": "RE MAX Realty One",
+            "phone": "7654547300",
+            "email": "pennyirwinrealtor@comcast.net",
+            "website": "http://www.remax-kokomo-in.com/"
+        },
+        "history": {
+            "2025-08-26": {
+                "event": "Sale Listing",
+                "price": 112400,
+                "listingType": "Standard",
+                "listedDate": "2025-08-26T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 127
+            }
+        }
+    },
+    {
+        "id": "1036-S-Webster-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1036 S Webster St, Kokomo, IN 46902",
+        "addressLine1": "1036 S Webster St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.475254,
+        "longitude": -86.136156,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1760,
+        "lotSize": 6970,
+        "yearBuilt": 1900,
+        "status": "Active",
+        "price": 179900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-30T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-10-01T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.659Z",
+        "daysOnMarket": 92,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202539525",
+        "listingAgent": {
+            "name": "Toni Brock",
+            "phone": "7658631192",
+            "email": "tonilbrock@gmail.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-09-30": {
+                "event": "Sale Listing",
+                "price": 179900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-30T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 92
+            }
+        }
+    },
+    {
+        "id": "2118-Chevy-Ct,-Kokomo,-IN-46902",
+        "formattedAddress": "2118 Chevy Ct, Kokomo, IN 46902",
+        "addressLine1": "2118 Chevy Ct",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.471023,
+        "longitude": -86.101069,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "squareFootage": 2287,
+        "lotSize": 13939,
+        "yearBuilt": 1971,
+        "status": "Active",
+        "price": 209900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-15T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-09-17T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.656Z",
+        "daysOnMarket": 107,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202537281",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-09-15": {
+                "event": "Sale Listing",
+                "price": 209900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-15T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 107
+            }
+        }
+    },
+    {
+        "id": "717-W-State-St,-Kokomo,-IN-46902",
+        "formattedAddress": "717 W State St, Kokomo, IN 46902",
+        "addressLine1": "717 W State St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.471849,
+        "longitude": -86.139757,
+        "propertyType": "Multi-Family",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "squareFootage": 1537,
+        "lotSize": 6621,
+        "yearBuilt": 1899,
+        "status": "Active",
+        "price": 139900,
+        "listingType": "Standard",
+        "listedDate": "2025-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-09-14T08:07:56.617Z",
+        "lastSeenDate": "2025-12-30T05:36:14.656Z",
+        "daysOnMarket": 90,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202539920",
+        "listingAgent": {
+            "name": "Audra Cannon",
+            "phone": "7654598034",
+            "email": "audra@crmproperties.net"
+        },
+        "listingOffice": {
+            "name": "Crm Properties, Inc",
+            "phone": "7654598034",
+            "email": "crmullinax@comcast.net"
+        },
+        "history": {
+            "2025-10-02": {
+                "event": "Sale Listing",
+                "price": 139900,
+                "listingType": "Standard",
+                "listedDate": "2025-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 90
+            }
+        }
+    },
+    {
+        "id": "5808-Mendota-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "5808 Mendota Dr, Kokomo, IN 46902",
+        "addressLine1": "5808 Mendota Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.422527,
+        "longitude": -86.120878,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 936,
+        "lotSize": 6882,
+        "yearBuilt": 1962,
+        "status": "Active",
+        "price": 169900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-31T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-31T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.652Z",
+        "daysOnMarket": 122,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202535028",
+        "listingAgent": {
+            "name": "Paul Ward",
+            "email": "americanappraisers@sbcglobal.net"
+        },
+        "listingOffice": {
+            "name": "Ward Realty",
+            "phone": "7654575501",
+            "email": "americanappraisers@sbcglobal.net"
+        },
+        "history": {
+            "2025-08-31": {
+                "event": "Sale Listing",
+                "price": 169900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-31T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 122
+            }
+        }
+    },
+    {
+        "id": "3203-Emerald-Place-St,-Kokomo,-IN-46902",
+        "formattedAddress": "3203 Emerald Place St, Kokomo, IN 46902",
+        "addressLine1": "3203 Emerald Place St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.430252,
+        "longitude": -86.176855,
+        "propertyType": "Land",
+        "lotSize": 32234,
+        "status": "Active",
+        "price": 39900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-12T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-09-13T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.651Z",
+        "daysOnMarket": 110,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202536892",
+        "listingAgent": {
+            "name": "Tom Hayes",
+            "phone": "7654381392",
+            "email": "tom@tomhayesrealty.com",
+            "website": "tom@tomhayesrealty.com"
+        },
+        "listingOffice": {
+            "name": "Tom Hayes Realty",
+            "phone": "5746996073",
+            "email": "tom@tomhayesrealty.net",
+            "website": "www.tomhayesrealty.net"
+        },
+        "history": {
+            "2025-09-12": {
+                "event": "Sale Listing",
+                "price": 39900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-12T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 110
+            }
+        }
+    },
+    {
+        "id": "2505-Elaine-Ct,-Kokomo,-IN-46902",
+        "formattedAddress": "2505 Elaine Ct, Kokomo, IN 46902",
+        "addressLine1": "2505 Elaine Ct",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.459987,
+        "longitude": -86.167378,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2520,
+        "lotSize": 49223,
+        "yearBuilt": 1978,
+        "status": "Active",
+        "price": 265900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-24T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-09-25T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.651Z",
+        "daysOnMarket": 98,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202538722",
+        "listingAgent": {
+            "name": "Elise Maxwell"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-09-24": {
+                "event": "Sale Listing",
+                "price": 265900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-24T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 98
+            }
+        }
+    },
+    {
+        "id": "3604-Candy-Ln,-Kokomo,-IN-46902",
+        "formattedAddress": "3604 Candy Ln, Kokomo, IN 46902",
+        "addressLine1": "3604 Candy Ln",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.444505,
+        "longitude": -86.109989,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 1418,
+        "lotSize": 13765,
+        "yearBuilt": 1976,
+        "status": "Active",
+        "price": 259900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-28T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2024-11-15T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.650Z",
+        "daysOnMarket": 125,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202534512",
+        "listingAgent": {
+            "name": "Christy Dechert",
+            "phone": "7654387952",
+            "email": "christy@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2024-11-14": {
+                "event": "Sale Listing",
+                "price": 289000,
+                "listingType": "Standard",
+                "listedDate": "2024-11-14T00:00:00.000Z",
+                "removedDate": "2025-02-08T00:00:00.000Z",
+                "daysOnMarket": 86
+            },
+            "2025-08-28": {
+                "event": "Sale Listing",
+                "price": 259900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-28T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 125
+            }
+        }
+    },
+    {
+        "id": "1622-S-Market-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1622 S Market St, Kokomo, IN 46902",
+        "addressLine1": "1622 S Market St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.467445,
+        "longitude": -86.128023,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 1160,
+        "lotSize": 7841,
+        "yearBuilt": 1910,
+        "status": "Active",
+        "price": 110000,
+        "listingType": "Short Sale",
+        "listedDate": "2025-09-06T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-10-28T08:53:17.629Z",
+        "lastSeenDate": "2025-12-30T05:36:14.650Z",
+        "daysOnMarket": 116,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202535984",
+        "listingAgent": {
+            "name": "Raylene Webb",
+            "phone": "2602226970",
+            "email": "webb.raylene@yahoo.com"
+        },
+        "listingOffice": {
+            "name": "Exp Realty, Llc",
+            "phone": "8886663912",
+            "email": "in.broker@exprealty.net",
+            "website": "http://www.exprealty.com"
+        },
+        "history": {
+            "2025-09-06": {
+                "event": "Sale Listing",
+                "price": 110000,
+                "listingType": "Short Sale",
+                "listedDate": "2025-09-06T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 116
+            }
+        }
+    },
+    {
+        "id": "1908-Greytwig-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "1908 Greytwig Dr, Kokomo, IN 46902",
+        "addressLine1": "1908 Greytwig Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.447205,
+        "longitude": -86.105297,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "squareFootage": 3046,
+        "lotSize": 23261,
+        "yearBuilt": 1960,
+        "status": "Active",
+        "price": 289900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-25T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-09T09:35:35.186Z",
+        "lastSeenDate": "2025-12-30T05:36:14.649Z",
+        "daysOnMarket": 128,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533974",
+        "listingAgent": {
+            "name": "Michael Mygrant",
+            "phone": "7654577214",
+            "email": "michael@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "Mygrant Realty & Appraisals",
+            "phone": "7654617608",
+            "email": "michael@mygrantproperties.com"
+        },
+        "history": {
+            "2025-08-25": {
+                "event": "Sale Listing",
+                "price": 289900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-25T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 128
+            }
+        }
+    },
+    {
+        "id": "846-Springwater-Rd,-Kokomo,-IN-46902",
+        "formattedAddress": "846 Springwater Rd, Kokomo, IN 46902",
+        "addressLine1": "846 Springwater Rd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.430293,
+        "longitude": -86.112587,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2064,
+        "lotSize": 7405,
+        "yearBuilt": 2002,
+        "hoa": {
+            "fee": 15
+        },
+        "status": "Active",
+        "price": 299900,
+        "listingType": "Standard",
+        "listedDate": "2025-10-13T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-10-14T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.645Z",
+        "daysOnMarket": 79,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202541416",
+        "listingAgent": {
+            "name": "Shelly Dyer",
+            "phone": "7653272478",
+            "email": "shelly@fctmilesrealty.com",
+            "website": "https://www.facebook.com/dyerhomesrealestate/"
+        },
+        "listingOffice": {
+            "name": "Dyer Homes, LLC",
+            "phone": "7652108495",
+            "email": "shelly@dyer-homes.com",
+            "website": "https://dyer-homes.com/"
+        },
+        "history": {
+            "2025-10-13": {
+                "event": "Sale Listing",
+                "price": 299900,
+                "listingType": "Standard",
+                "listedDate": "2025-10-13T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 79
+            }
+        }
+    },
+    {
+        "id": "6002-Council-Ring-Blvd,-Kokomo,-IN-46902",
+        "formattedAddress": "6002 Council Ring Blvd, Kokomo, IN 46902",
+        "addressLine1": "6002 Council Ring Blvd",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.420977,
+        "longitude": -86.119351,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "squareFootage": 1232,
+        "lotSize": 7405,
+        "yearBuilt": 1962,
+        "status": "Active",
+        "price": 159900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-27T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-12-08T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.641Z",
+        "daysOnMarket": 126,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202534309",
+        "listingAgent": {
+            "name": "Jennifer Swanner",
+            "phone": "7656614821",
+            "email": "jswanner1931@gmail.com",
+            "website": "https://www.homesbynicholson.com/"
+        },
+        "listingOffice": {
+            "name": "Nicholson Realty 2.0 LLC",
+            "phone": "7655736185"
+        },
+        "history": {
+            "2025-08-27": {
+                "event": "Sale Listing",
+                "price": 159900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-27T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 126
+            }
+        }
+    },
+    {
+        "id": "3208-Susan-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "3208 Susan Dr, Kokomo, IN 46902",
+        "addressLine1": "3208 Susan Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.449277,
+        "longitude": -86.11032,
+        "propertyType": "Single Family",
+        "bedrooms": 5,
+        "bathrooms": 2.5,
+        "squareFootage": 3681,
+        "lotSize": 11413,
+        "yearBuilt": 1970,
+        "status": "Active",
+        "price": 317000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2023-10-31T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.640Z",
+        "daysOnMarket": 131,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533648",
+        "listingAgent": {
+            "name": "Chris Beatty",
+            "phone": "7654807102",
+            "email": "chris@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-03-05": {
+                "event": "Sale Listing",
+                "price": 316800,
+                "listingType": "Standard",
+                "listedDate": "2025-03-05T00:00:00.000Z",
+                "removedDate": "2025-08-09T00:00:00.000Z",
+                "daysOnMarket": 157
+            },
+            "2025-08-22": {
+                "event": "Sale Listing",
+                "price": 317000,
+                "listingType": "Standard",
+                "listedDate": "2025-08-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 131
+            }
+        }
+    },
+    {
+        "id": "2401-Greentree-Ln,-Kokomo,-IN-46902",
+        "formattedAddress": "2401 Greentree Ln, Kokomo, IN 46902",
+        "addressLine1": "2401 Greentree Ln",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.452413,
+        "longitude": -86.165602,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2863,
+        "lotSize": 16988,
+        "yearBuilt": 1975,
+        "status": "Active",
+        "price": 229995,
+        "listingType": "Standard",
+        "listedDate": "2025-10-02T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-10-03T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.639Z",
+        "daysOnMarket": 90,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202539998",
+        "listingAgent": {
+            "name": "Steven K.",
+            "phone": "8046565007",
+            "email": "realtor@beycome.com",
+            "website": "https://www.beycome.com"
+        },
+        "listingOffice": {
+            "name": "beycome.com",
+            "phone": "8046565007",
+            "email": "realtor@beycome.com",
+            "website": "https://www.beycome.com"
+        },
+        "history": {
+            "2025-10-02": {
+                "event": "Sale Listing",
+                "price": 229995,
+                "listingType": "Standard",
+                "listedDate": "2025-10-02T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 90
+            }
+        }
+    },
+    {
+        "id": "3158-Crooked-Stick-Dr,-Kokomo,-IN-46902",
+        "formattedAddress": "3158 Crooked Stick Dr, Kokomo, IN 46902",
+        "addressLine1": "3158 Crooked Stick Dr",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.42588,
+        "longitude": -86.149169,
+        "propertyType": "Single Family",
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "squareFootage": 2338,
+        "lotSize": 13504,
+        "yearBuilt": 2006,
+        "status": "Active",
+        "price": 342000,
+        "listingType": "Standard",
+        "listedDate": "2025-08-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2021-09-28T08:57:57.358Z",
+        "lastSeenDate": "2025-12-30T05:36:14.638Z",
+        "daysOnMarket": 131,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202533740",
+        "listingAgent": {
+            "name": "Chris Beatty",
+            "phone": "7654807102",
+            "email": "chris@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-03-21": {
+                "event": "Sale Listing",
+                "price": 341800,
+                "listingType": "Standard",
+                "listedDate": "2025-03-21T00:00:00.000Z",
+                "removedDate": "2025-07-02T00:00:00.000Z",
+                "daysOnMarket": 103
+            },
+            "2025-08-22": {
+                "event": "Sale Listing",
+                "price": 342000,
+                "listingType": "Standard",
+                "listedDate": "2025-08-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 131
+            }
+        }
+    },
+    {
+        "id": "811-W-State-St,-Kokomo,-IN-46902",
+        "formattedAddress": "811 W State St, Kokomo, IN 46902",
+        "addressLine1": "811 W State St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.471859,
+        "longitude": -86.140654,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "squareFootage": 1488,
+        "lotSize": 6534,
+        "yearBuilt": 2012,
+        "status": "Active",
+        "price": 229900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-03T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2022-07-20T08:18:49.725Z",
+        "lastSeenDate": "2025-12-30T05:36:14.637Z",
+        "daysOnMarket": 119,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202535282",
+        "listingAgent": {
+            "name": "Carlos Avelar",
+            "phone": "5745334600",
+            "email": "carlos@fenixrealty.net"
+        },
+        "listingOffice": {
+            "name": "Fenix Realty, Llc",
+            "phone": "5748499022",
+            "email": "carlos@fenixrealty.net",
+            "website": "."
+        },
+        "history": {
+            "2025-09-03": {
+                "event": "Sale Listing",
+                "price": 229900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-03T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 119
+            }
+        }
+    },
+    {
+        "id": "3264-Woodhaven-Trl,-Kokomo,-IN-46902",
+        "formattedAddress": "3264 Woodhaven Trl, Kokomo, IN 46902",
+        "addressLine1": "3264 Woodhaven Trl",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.429142,
+        "longitude": -86.162719,
+        "propertyType": "Condo",
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "squareFootage": 3506,
+        "lotSize": 2614,
+        "yearBuilt": 1988,
+        "hoa": {
+            "fee": 381
+        },
+        "status": "Active",
+        "price": 314900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-11T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-09-12T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.637Z",
+        "daysOnMarket": 111,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202536679",
+        "listingAgent": {
+            "name": "Christy Dechert",
+            "phone": "7654387952",
+            "email": "christy@thehardiegroup.com"
+        },
+        "listingOffice": {
+            "name": "The Hardie Group",
+            "phone": "7654577214",
+            "email": "kevin@thehardiegroup.com",
+            "website": "www.thehardiegroup.com"
+        },
+        "history": {
+            "2025-09-11": {
+                "event": "Sale Listing",
+                "price": 314900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-11T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 111
+            }
+        }
+    },
+    {
+        "id": "2002-Kerri-Lynn-Ln,-Kokomo,-IN-46902",
+        "formattedAddress": "2002 Kerri Lynn Ln, Kokomo, IN 46902",
+        "addressLine1": "2002 Kerri Lynn Ln",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.447023,
+        "longitude": -86.081991,
+        "propertyType": "Single Family",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "squareFootage": 3426,
+        "lotSize": 30492,
+        "yearBuilt": 1993,
+        "hoa": {
+            "fee": 10
+        },
+        "status": "Active",
+        "price": 419900,
+        "listingType": "Standard",
+        "listedDate": "2025-08-22T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-08-23T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.636Z",
+        "daysOnMarket": 131,
+        "mlsName": "MIBOR",
+        "mlsNumber": "22058245",
+        "listingAgent": {
+            "name": "Ryan Radecki",
+            "phone": "3177525826",
+            "email": "rradecki@kw.com",
+            "website": "http://www.radeckirealtygroup.com"
+        },
+        "listingOffice": {
+            "name": "Highgarden Real Estate",
+            "phone": "3172804663",
+            "email": "brian@easystreetrealty.com",
+            "website": "www.highgarden-indianapolis.com"
+        },
+        "history": {
+            "2025-08-22": {
+                "event": "Sale Listing",
+                "price": 419900,
+                "listingType": "Standard",
+                "listedDate": "2025-08-22T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 131
+            }
+        }
+    },
+    {
+        "id": "1500-S-Buckeye-St,-Kokomo,-IN-46902",
+        "formattedAddress": "1500 S Buckeye St, Kokomo, IN 46902",
+        "addressLine1": "1500 S Buckeye St",
+        "addressLine2": null,
+        "city": "Kokomo",
+        "state": "IN",
+        "stateFips": "18",
+        "zipCode": "46902",
+        "county": "Howard",
+        "countyFips": "067",
+        "latitude": 40.469264,
+        "longitude": -86.132124,
+        "propertyType": "Single Family",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "squareFootage": 1699,
+        "lotSize": 4792,
+        "yearBuilt": 1899,
+        "status": "Active",
+        "price": 119900,
+        "listingType": "Standard",
+        "listedDate": "2025-09-19T00:00:00.000Z",
+        "removedDate": null,
+        "createdDate": "2025-09-20T00:00:00.000Z",
+        "lastSeenDate": "2025-12-30T05:36:14.636Z",
+        "daysOnMarket": 103,
+        "mlsName": "IRMLS",
+        "mlsNumber": "202537994",
+        "listingAgent": {
+            "name": "Paul Wyman",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com",
+            "website": "http://thewymangroup.com"
+        },
+        "listingOffice": {
+            "name": "The Wyman Group",
+            "phone": "7654191021",
+            "email": "pwyman8@aol.com"
+        },
+        "history": {
+            "2025-09-19": {
+                "event": "Sale Listing",
+                "price": 119900,
+                "listingType": "Standard",
+                "listedDate": "2025-09-19T00:00:00.000Z",
+                "removedDate": null,
+                "daysOnMarket": 103
+            }
+        }
+    }
+]
