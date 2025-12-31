@@ -1,1 +1,19 @@
-# Config file
+# Scoring Weights for the Yield-Risk Engine
+# These must add up to 1.0 (100%)
+
+weights:
+  # Priority 1: Cash Flow (Rent-to-Cost Ratio)
+  rent_to_cost: 0.40
+  
+  # Priority 2: Safety (Low Maintenance Risk)
+  # Note: Since high risk score is bad, we will invert this in the code
+  maintenance_risk: 0.40
+  
+  # Priority 3: Vacancy/Market Health (Adjusted Revenue)
+  vacancy_adjusted: 0.20
+
+scaling:
+  # We use these to normalize the data (0 to 1 scale)
+  # Based on typical Kokomo market values
+  max_risk_score: 200  # Anything above 200 is "0 points" for safety
+  target_yield: 0.015  # 1.5% is "100 points" for yield
