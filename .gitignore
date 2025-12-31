@@ -1,4 +1,26 @@
-.env
+# Python junk
 __pycache__/
-*.csv
+*.pyc
+
+# Environment variables (SECURITY RISK)
+.env
+
+# System junk
 .DS_Store
+
+# Data Folders (Keep folders, ignore files)
+data/01-raw/*
+!data/01-raw/.gitkeep
+data/02-preprocessed/*
+!data/02-preprocessed/.gitkeep
+data/02-enriched/*
+!data/02-enriched/.gitkeep
+data/03-features/*
+!data/03-features/.gitkeep
+
+# Allow uploading the final report
+!data/04-predictions/*.csv
+
+# Ignore local reports, but keep figures
+reports/*
+!reports/figures/

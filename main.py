@@ -10,6 +10,7 @@ from pipelines.preprocessing_pipeline import run_preprocessing
 from pipelines.enrichment_pipeline import run_enrichment
 from pipelines.feature_eng_pipeline import run_feature_engineering
 from pipelines.scoring_pipeline import run_scoring
+from pipelines.visualization_pipeline import run_visualization
 
 def print_separator(step_name):
     print("\n" + "="*60)
@@ -40,6 +41,10 @@ def main():
         # 5. Scoring (Rank Deals)
         print_separator("SCORING & RANKING")
         run_scoring()
+
+        # 6. Visualization (Generate Report)
+        print_separator("VISUALIZATION")
+        run_visualization()
         
         end_time = time.time()
         duration = end_time - start_time

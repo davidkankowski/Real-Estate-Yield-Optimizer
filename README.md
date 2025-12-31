@@ -3,7 +3,7 @@
 **An automated data pipeline that identifies high-yield rental properties while filtering out "value traps" (high maintenance risk).**
 
 ## 🎯 The Business Problem
-High "Rent-to-Cost" ratios often lure investors into bad deals. A property might show a 1.5% yield, but if it's 100 years old and in a labor-scarce market, the **Effective Yield** is much lower.
+High "Rent-to-Cost" ratios often lure investors into bad deals. A property might show a 1.5% yield, but if it's 100 years old and in a labor-scarce market, the **Effective Yield** is much lower due to maintenance costs.
 
 ## 🛠️ The Solution
 This pipeline ingests live market data and scores properties on a "Deal Score" (0-100) using a custom algorithm:
@@ -17,9 +17,11 @@ This pipeline ingests live market data and scores properties on a "Deal Score" (
 3.  **Enrichment:** "Sniper" approach—fetches rent estimates only for top candidates (saves API costs).
 4.  **Feature Engineering:** Calculates Risk Scores and Adjusted Revenue.
 5.  **Scoring:** Normalizes metrics and ranks the "Top 5 Deals."
+6.  **Visualization:** Automatically generates a quadrant chart for analysis.
 
 ## 📊 Visualization
 The pipeline automatically generates a "Yield-Risk Matrix" to separate high-potential deals (Green) from value traps (Orange).
+
 ![Yield Risk Matrix](yield_risk_matrix.png)
 
 ## 💻 Tech Stack
