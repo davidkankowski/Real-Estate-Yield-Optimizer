@@ -1,1 +1,16 @@
-# Config file
+# Investor Profile: The "Yield-Risk Optimizer" Strategy
+target_market:
+  city: "Kokomo"
+  state: "IN"
+  zip_codes: ["46901", "46902"] # Confirmed Kokomo Zip Codes
+
+financial_goals:
+  min_rent_to_cost_ratio: 0.01  # The 1% Rule
+  target_yield_ray: 0.12        # Risk-Adjusted Yield Target (12%)
+
+risk_assumptions:
+  # The "Silent Killers"
+  vacancy_buffer: 0.08          # 8% vacancy assumption for Midwest
+  maintenance_index:
+    heavy: 50                   # Cost per sqft for pre-1960 builds
+    light: 15                   # Cost per sqft for post-2000 builds
