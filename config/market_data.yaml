@@ -1,1 +1,17 @@
-# Config file
+# Market-Level Data for Yield-Risk Engine
+markets:
+  # Kokomo, IN Zip Codes
+  "46901":
+    city: "Kokomo"
+    vacancy_rate: 0.08        # 8% conservative vacancy
+    labor_cost_index: 1.2     # 20% higher than national avg
+    
+  "46902":
+    city: "Kokomo"
+    vacancy_rate: 0.08
+    labor_cost_index: 1.2
+    
+  # Default fallback if a zip code is new to us
+  default:
+    vacancy_rate: 0.10        # Assume 10% worst-case
+    labor_cost_index: 1.0
