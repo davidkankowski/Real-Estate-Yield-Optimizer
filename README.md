@@ -18,6 +18,10 @@ This pipeline ingests live market data and scores properties on a "Deal Score" (
 4.  **Feature Engineering:** Calculates Risk Scores and Adjusted Revenue.
 5.  **Scoring:** Normalizes metrics and ranks the "Top 5 Deals."
 
+## 📊 Visualization
+The pipeline automatically generates a "Yield-Risk Matrix" to separate high-potential deals (Green) from value traps (Orange).
+![Yield Risk Matrix](yield_matrix.png)
+
 ## 💻 Tech Stack
 * **Python 3.10+**
 * **Pandas:** Data manipulation.
